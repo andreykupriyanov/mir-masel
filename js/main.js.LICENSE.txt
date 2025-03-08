@@ -1,4 +1,12 @@
 /*!
+ * dist/inputmask
+ * https://github.com/RobinHerbots/Inputmask
+ * Copyright (c) 2010 - 2021 Robin Herbots
+ * Licensed under the MIT license
+ * Version: 5.0.7
+ */
+
+/*!
  * purecounter.js - A simple yet configurable native javascript counter which you can count on.
  * Author: Stig Rex
  * Version: 1.5.0
